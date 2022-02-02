@@ -5,3 +5,4 @@ modify feature A
 modify feature A again
 modify feature B
 edit feature C
+add new in feature C
