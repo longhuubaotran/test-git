@@ -7,3 +7,5 @@ modify feature B
 edit feature C
 add new in feature C
 add new in feature A
+add new in B
+add new 2 in B
